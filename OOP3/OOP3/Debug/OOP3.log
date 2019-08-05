@@ -1,0 +1,11 @@
+﻿  OOP3.cpp
+D:\Users\ahmed\Desktop\Education\First Well Done Project\OOP3\OOP3\OOP3.cpp(11,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Users\ahmed\Desktop\Education\First Well Done Project\OOP3\OOP3\OOP3.cpp(21,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Users\ahmed\Desktop\Education\First Well Done Project\OOP3\OOP3\OOP3.cpp(40,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Users\ahmed\Desktop\Education\First Well Done Project\OOP3\OOP3\OOP3.cpp(102,1): warning C4305:  'initializing': truncation from 'int' to 'bool'
+D:\Users\ahmed\Desktop\Education\First Well Done Project\OOP3\OOP3\OOP3.cpp(103,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Users\ahmed\Desktop\Education\First Well Done Project\OOP3\OOP3\OOP3.cpp(112,1): warning C4806:  '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+D:\Users\ahmed\Desktop\Education\First Well Done Project\OOP3\OOP3\OOP3.cpp(121,22): warning C4018:  '<': signed/unsigned mismatch
+D:\Users\ahmed\Desktop\Education\First Well Done Project\OOP3\OOP3\OOP3.cpp(138,22): warning C4018:  '<': signed/unsigned mismatch
+D:\Users\ahmed\Desktop\Education\First Well Done Project\OOP3\OOP3\OOP3.cpp(155,22): warning C4018:  '<': signed/unsigned mismatch
+  OOP3.vcxproj -> D:\Users\ahmed\Desktop\Education\First Well Done Project\OOP3\Debug\OOP3.exe
